@@ -1,5 +1,8 @@
 import './css/styles.css';
+import { Apiscripts } from './js/api-scripts';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
+import SimpleLightbox from "simplelightbox";
+import "simplelightbox/dist/simple-lightbox.min.css";
 
 
 const fetchImagesService = new FetchImagesService();

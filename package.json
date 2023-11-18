@@ -4,8 +4,8 @@
   "description": "",
   "homepage": "https://AndrijAyzy.github.io/goit-js-hw-111",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-111/"
+    "start": "parcel src/js/*.html",
+    "build": "parcel build src/js/*.html --public-url /goit-js-hw-111/"
   },
   "repository": {
     "type": "git",
