@@ -1,6 +1,7 @@
 import './css/styles.css';
 import axios from 'axios';
 import Notiflix from 'notiflix';
+import './js/api.js';
 const debounce = require('lodash.debounce');
 
 const searchForm = document.querySelector('.search-form');
