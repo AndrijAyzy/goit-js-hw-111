@@ -1,4 +1,4 @@
-import './css/style.css';
+import './css/styles.css';
 import { PixabayAPI } from './js/pixabay-api';
 import createPhotoCard from './templates/card-template.hbs';
 import '//node_modules/simplelightbox/dist/simple-lightbox.min.css';
